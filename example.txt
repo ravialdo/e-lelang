@@ -1,0 +1,83 @@
+   /**
+   * pesan validasi
+   *
+   * @return messages()
+   *
+    **/
+
+    public function messages()
+    {
+        //
+    }
+
+   /**
+   * aksi validasi
+   *
+   * @return validation()
+   *
+    **/
+
+    public function validation()
+    {
+        //
+    }
+
+   /**
+   * reset input
+   *
+   * @return validation()
+   *
+    **/
+
+    public function reset()
+    {
+        //
+    }
+
+   /**
+   * aksi membuat data
+   *
+   * @return store()
+   *
+    **/
+
+    public function store()
+    {
+        //
+    }
+
+   /**
+   * penyeleksian data
+   *
+   * @return validation()
+   *
+    **/
+
+    public function edit()
+    {
+        //
+    }
+
+   /**
+   * aksi ubah data
+   *
+   * @return update()
+   *
+    **/
+
+    public function update()
+    {
+        //
+    }
+
+   /**
+   * aksi hapus data
+   *
+   * @return destroy()
+   *
+    **/
+
+    public function destroy()
+    {
+        //
+    }
